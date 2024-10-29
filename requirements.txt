@@ -1,0 +1,15 @@
+pillow
+numpy<=1.26.4
+torchvision
+opencv-python
+transformers
+accelerate
+einops
+huggingface_hub
+pytorch_lightning
+torch
+ujson
+
+#nlp translator
+modelscope
+tensorflow
