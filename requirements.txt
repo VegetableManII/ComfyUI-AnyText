@@ -9,6 +9,7 @@ huggingface_hub
 pytorch_lightning
 torch
 ujson
+open_clip_torch
 
 #nlp translator
 modelscope
